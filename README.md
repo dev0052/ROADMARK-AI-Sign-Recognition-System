@@ -1,5 +1,5 @@
 
-# Traffic Sign Recognition using YOLO
+# ROADMARK AI - Sign Recognition System
 
 This project implements traffic sign recognition using the YOLO (You Only Look Once) object detection algorithm. The goal is to accurately detect and classify various traffic signs in images or video streams in real-time.
 
@@ -31,8 +31,8 @@ Traffic sign recognition is a critical component of advanced driver-assistance s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/dev0052/Traffic_Sign_Recognition-YOLO.git
-   cd Traffic_Sign_Recognition-YOLO
+   git clone https://github.com/dev0052/ROADMARK-AI-Sign-Recognition-System.git
+   cd ROADMARK-AI-Sign-Recognition-System
    ```
 
 2. **Create a virtual environment (optional but recommended):**
